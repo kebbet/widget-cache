@@ -14,7 +14,7 @@
  * @package widget-cache
  */
 
-namespace kebbet\muplugin\widgetcache;
+namespace kebbet\mu\widgetcache;
 
 /**
  * Hook into the 'init' action

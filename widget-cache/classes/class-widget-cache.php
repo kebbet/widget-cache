@@ -6,7 +6,7 @@
  * @package widget-cache
  */
 
-namespace kebbet\muplugin\widgetcache;
+namespace kebbet\mu\widgetcache;
 
 /**
  * Widget_Cache
